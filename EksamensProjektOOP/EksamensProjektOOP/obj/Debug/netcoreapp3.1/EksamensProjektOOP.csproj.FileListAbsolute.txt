@@ -1,0 +1,13 @@
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\bin\Debug\netcoreapp3.1\EksamensProjektOOP.exe
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\bin\Debug\netcoreapp3.1\EksamensProjektOOP.deps.json
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\bin\Debug\netcoreapp3.1\EksamensProjektOOP.runtimeconfig.json
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\bin\Debug\netcoreapp3.1\EksamensProjektOOP.runtimeconfig.dev.json
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\bin\Debug\netcoreapp3.1\EksamensProjektOOP.dll
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\bin\Debug\netcoreapp3.1\EksamensProjektOOP.pdb
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\obj\Debug\netcoreapp3.1\EksamensProjektOOP.csprojAssemblyReference.cache
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\obj\Debug\netcoreapp3.1\EksamensProjektOOP.AssemblyInfoInputs.cache
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\obj\Debug\netcoreapp3.1\EksamensProjektOOP.AssemblyInfo.cs
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\obj\Debug\netcoreapp3.1\EksamensProjektOOP.csproj.CoreCompileInputs.cache
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\obj\Debug\netcoreapp3.1\EksamensProjektOOP.dll
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\obj\Debug\netcoreapp3.1\EksamensProjektOOP.pdb
+C:\Users\nanna\source\repos\EksamensProjektOOP\EksamensProjektOOP\obj\Debug\netcoreapp3.1\EksamensProjektOOP.genruntimeconfig.cache
